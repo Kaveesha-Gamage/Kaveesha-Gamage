@@ -84,12 +84,6 @@ I love building real-world applications, exploring cybersecurity threats, and co
 - Profile management system  
 - Responsive dashboard UI  
 
----
-
-## 🔐 Cybersecurity Dataset Analysis
-- CICDDoS2019, InSDN & NSL-KDD analysis  
-- Attack pattern detection research  
-- ICA report generation  
 
 ---
 
