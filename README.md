@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kaveesha
+# 👋 Hi, I'm Kaveesha Gamage
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Cybersecurity+Researcher;Future+Software+Engineer;Building+Projects+That+Matter)](https://git.io/typing-svg)
 
@@ -12,8 +12,6 @@
 🎓 Final-year Computer Science Undergraduate  
 💻 Passionate Full-Stack Developer  
 🔐 Cybersecurity & Network Security Researcher  
-🌱 Currently learning: Advanced Backend & Security Analysis  
-🎯 Goal: Become a Software Engineer & Security Specialist  
 
 I love building real-world applications, exploring cybersecurity threats, and constantly improving my development skills.
 
